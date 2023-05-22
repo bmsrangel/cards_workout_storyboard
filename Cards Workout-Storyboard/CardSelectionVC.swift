@@ -44,7 +44,5 @@ class CardSelectionVC: UIViewController {
         timer.invalidate()
         startTimer()
     }
-    @IBAction func rulesButtonTapped(_ sender: UIButton) {
-    }
     
 }
